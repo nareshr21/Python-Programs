@@ -1,6 +1,6 @@
 def find_target_element_index(arr,target):
     
-    #Finding the target element index in  an array by taking input from user 
+    #Finding the target element index in  an array by taking input from user
 
 
     n=len(arr)
